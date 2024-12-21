@@ -5,7 +5,9 @@ When developing programs, it's essential to approach the process systematically,
 Being a good team member in software development is essential for the success of any project, as these projects are often complex and require the collaboration of many people with diverse skill sets. Key traits of an effective team member include:
 
 Kindness: Treating everyone with kindness, including yourself and the work you create, fosters a positive environment.
+
 Respect: Listening carefully to others and staying humble is crucial. Respecting both the work and the field of computer science helps maintain a professional atmosphere.
+
 Responsibility: Being accountable for both your contributions and any mistakes that may occur ensures a productive and trustworthy team dynamic.
 Reliability: Consistently showing up, being prepared to work, and delivering tasks on time is vital for team success.
 Enjoyment: Having fun while working is important for maintaining motivation and creativity, contributing to a more enjoyable and effective working experience.
