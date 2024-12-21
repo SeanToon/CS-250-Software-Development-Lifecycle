@@ -1,18 +1,12 @@
-#Module Eight Journal
+User needs are the core requirements that a system must fulfill to be effective and valuable. To understand these needs, there are various methods, such as conducting interviews or gathering feedback through interactions with the system’s users. One highly effective technique for collecting user needs is the creation of user stories. These stories allow developers to adopt the perspective of the user, which helps identify possible interactions with the system. By understanding these interactions, developers can ensure that all necessary system requirements are captured and implemented effectively.
 
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+When developing programs, it's essential to approach the process systematically, selecting the right software development lifecycle (SDLC) model based on the project’s context. There are various models to choose from, with Agile and Waterfall being two of the most well-known. The Agile approach is known for its flexibility; it allows for adjustments and changes at any stage of the development cycle. In contrast, the Waterfall approach follows a more rigid, linear path where changes are more difficult to implement once a phase is completed. The choice between Agile and Waterfall depends on the nature of the project. For complex and evolving projects, Agile is often the best choice because it accommodates changes and iterative development. For simpler, more straightforward projects, Waterfall may be more appropriate due to its structured, step-by-step approach. Moving forward, I hope to gain a better understanding of the specific needs of each project, which will help me decide which approach is most suitable for the task at hand.
 
-User needs are the needs that shall be met when designing a system. There are many different ways to collect user needs such as interviews or any kind of interaction or feedback from users of a system. One method that is helpful to gather user needs is creating "user stories". Creating "User stories" puts a programmer or designer in the postion of a user to determine possible user-system interactions. Having the right "user stories" helps developers implement all of the necessary system requirements. 
+Being a good team member in software development is essential for the success of any project, as these projects are often complex and require the collaboration of many people with diverse skill sets. Key traits of an effective team member include:
 
-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-
-There are many different Software Development Lifecyle approaches that can be used as a map for developing a system; two of the most famous being an agile approach and a waterfall approach. An agile approach allows for flexiblity with project development, while a waterfall approach does not. An agile approach has a overarching development plan from the beginning of a project but can be changed at any phase of the development lifecycle. A waterfall approach also has an overarching development plan for the beginning of a project but it cannot be changed during middle phases of the development lifecycle. The approach that shall be taken depends on the context of the project. For example, if a project is large, complex and intuitively difficult, the best approach may be an agile development approach. If a project is short and simple a waterfall approach may be the best approach. I hope that with my future projects, I will be able to determine what approach will work best for specific needs.
-
-What does it mean to be a good team member in software development?
-
-There are many traits that make up a good team member in software development. The key word in the question "What does it mean to be a good team member in software development?" is "team". Software devlopment projects are hard and complex and most of the time they take a team of bright and intelligent people to create. To be a good team member it is important to:
- * Be kind to everyone, yourself and the work that you are creating.
- * Be respectful by listening well and staying humble. Also respect your work and the science of computers.
- * Be responsible for your duties of a project and any mistakes made or achievements earned.
- * Be reliable by always showing up, ready to work and be present and by finishing work on time.
- * Have fun!
+Kindness: Treating everyone with kindness, including yourself and the work you create, fosters a positive environment.
+Respect: Listening carefully to others and staying humble is crucial. Respecting both the work and the field of computer science helps maintain a professional atmosphere.
+Responsibility: Being accountable for both your contributions and any mistakes that may occur ensures a productive and trustworthy team dynamic.
+Reliability: Consistently showing up, being prepared to work, and delivering tasks on time is vital for team success.
+Enjoyment: Having fun while working is important for maintaining motivation and creativity, contributing to a more enjoyable and effective working experience.
+By embodying these traits, a team member can contribute to a collaborative and successful software development project, ensuring that goals are met efficiently and harmoniously.
